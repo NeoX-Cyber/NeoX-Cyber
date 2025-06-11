@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🧠 Red Teamer | 💻 Ethical Hacker |  Linux is Neo
 
-<!--
-**Ramildi/Ramildi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I'm Neo — a cybersecurity enthusiast specialized in Red Team operations. My main areas of focus include:
 
-Here are some ideas to get you started:
+- 🛠️ Penetration Testing (External & Internal)
+- 🧠 OSINT and Social Engineering
+- 🎯 Phishing, Payload Development, Custom Exploits
+- 👨‍💻 Automated tools for offensive security
+- 🐍 Writing security tools in Python
+- 🎮 CTF, HackTheBox, and TryHackMe experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Hacking is not a crime, it’s an art of finding the truth.”
+
+📫 Contact: [ramilmhrmf@gmail.com] |  Instagram: [@https.ramil](https://www.instagram.com/https.ramil?igsh=MWpicGo0ZDF1em5xaA==)
