@@ -11,4 +11,4 @@ Hey there, I'm Neo — a cybersecurity enthusiast specialized in Red Team operat
 
 > “Hacking is not a crime, it’s an art of finding the truth.”
 
-📫 Contact: [ramilmhrmf@gmail.com] |  Instagram: [@ramilcyber]([https://www.instagram.com/https.ramil?igsh=MWpicGo0ZDF1em5xaA==](https://www.instagram.com/ramilcyber/))
+📫 Contact: [ramilmhrmf@gmail.com] |  Instagram: [((https://www.instagram.com/ramilcyber/)]
